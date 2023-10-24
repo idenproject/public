@@ -1,3 +1,8 @@
+@font-face {
+  font-family: Komika;
+  src: url(sansation_light.woff);
+}
+
 p, .jp-RenderedHTMLCommon p {
   font-family: "Times New Roman"
 }
