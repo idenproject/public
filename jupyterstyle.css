@@ -1,8 +1,14 @@
 @font-face {
   font-family: Komika;
-  src: url(sansation_light.woff);
+  src: url('https://raw.githubusercontent.com/idenproject/public/blob/main/fonts/komika.ttf');
 }
 
+@import url('https://fonts.googleapis.com/css?family=Bangers');
+
 p, .jp-RenderedHTMLCommon p {
-  font-family: "Times New Roman"
+  font-family: "Komika"
+}
+
+h1 {
+  font-family: "Bangers";
 }
