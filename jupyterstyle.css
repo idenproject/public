@@ -1,6 +1,8 @@
-p {
-    font-family: "komika-hand" !important;
+h4 {
+    font-family: "Komika Hand" !important;
     font-weight: 400 !important;
+    font-size: 12px !important;
+    line-height: 2 !important;
 }
 
 h1 {
