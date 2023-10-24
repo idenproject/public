@@ -1,14 +1,14 @@
 @font-face {
   font-family: Komika;
-  src: url('https://raw.githubusercontent.com/idenproject/public/blob/main/fonts/komika.ttf' format('truetype'));
+  src: url('https://github.com/idenproject/public/raw/main/fonts/komika.ttf' format('truetype'));
 }
 
 @import url('//fonts.googleapis.com/css?family=Bangers');
 
 p, .jp-RenderedHTMLCommon p {
-  font-family: "Komika"
+  font-family: "Komika" !important
 }
 
 h1 {
-  font-family: "Bangers";
+  font-family: "Bangers" !important;
 }
