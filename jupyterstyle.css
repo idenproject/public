@@ -1,12 +1,6 @@
-@font-face {
-  font-family: "Komika";
-  src: url('https://github.com/idenproject/public/raw/main/fonts/komika.ttf') format('truetype');
-}
-
-@import url('//fonts.googleapis.com/css?family=Bangers');
-
 p {
-  font-family: "Komika" !important
+    font-family: "Komika" !important;
+    font-weight: 400 !important;
 }
 
 h1 {
