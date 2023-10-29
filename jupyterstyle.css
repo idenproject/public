@@ -1,25 +1,26 @@
-h4 {
+.jp-RenderedHTMLCommon h4 {
     font-family: "Komika Hand" !important;
     font-weight: 400 !important;
     font-size: 12px !important;
     line-height: 2 !important;
     letter-spacing: 0.05em !important;
     font-color: white !important;
+
 }
 
-p {
-    font-color: white !important;
-}
-
-h1 {
+.jp-RenderedHTMLCommon h1 {
   font-family: "Bangers" !important;
   font-color: white !important;
+
+}
+
+.jp-RenderedHTMLCommon p {
+    font-color: white !important;
 }
 
 .details-example > summary {
     background: #000000;
     width: 25% !important;
-    font-color: white !important;
     font-family: "Komika Hand";
     padding: 5px;
     margin: 30px 0 30px 0;
@@ -28,7 +29,7 @@ h1 {
 }
 
 /* This may be weird */
-div {
+.jp-RenderedHTMLCommon div {
     background: black !important;
     font-color: white !important;
 }
