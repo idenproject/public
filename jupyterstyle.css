@@ -11,8 +11,8 @@ h1 {
 }
 
 .details-example > summary {
-    background: #000000;x
-    width: 25%;
+    background: #000000;
+    width: 25% !important;
     font-family: "Komika Hand";
     padding: 5px;
     margin: 30px 0 30px 0;
