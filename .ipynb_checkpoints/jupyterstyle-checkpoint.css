@@ -29,7 +29,7 @@
 }
 
 /* This may be weird */
-.jp-RenderedHTMLCommon div {
+div {
     background: black !important;
     font-color: white !important;
 }
