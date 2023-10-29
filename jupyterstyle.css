@@ -4,15 +4,22 @@ h4 {
     font-size: 12px !important;
     line-height: 2 !important;
     letter-spacing: 0.05em !important;
+    font-color: white !important;
+}
+
+p {
+    font-color: white !important;
 }
 
 h1 {
   font-family: "Bangers" !important;
+    font-color: white !important;
 }
 
 .details-example > summary {
     background: #000000;
     width: 25% !important;
+    font-color: white !important;
     font-family: "Komika Hand";
     padding: 5px;
     margin: 30px 0 30px 0;
