@@ -14,7 +14,7 @@
 
 }
 
-.jp-RenderedHTMLCommon p {
+.highlight pre, .jp-RenderedHTMLCommon p {
     font-color: white !important;
 }
 
