@@ -9,3 +9,13 @@ h4 {
 h1 {
   font-family: "Bangers" !important;
 }
+
+.details-example > summary {
+    background: #000000;
+    width: 25%;
+    font-family: "Komika Hand";
+    padding: 5px;
+    margin: 30px 0 30px 0;
+    box-shadow: 5px 4px 0 8px #fff;
+    transform: skew(-20deg) skewY(-5deg);
+}
