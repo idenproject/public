@@ -4,18 +4,18 @@
     font-size: 12px !important;
     line-height: 2 !important;
     letter-spacing: 0.05em !important;
-    font-color: white !important;
+    color: white !important;
 
 }
 
 .jp-RenderedHTMLCommon h1 {
   font-family: "Bangers" !important;
-  font-color: white !important;
+  color: white !important;
 
 }
 
 .jp-RenderedHTMLCommon, .highlight pre, .jp-RenderedHTMLCommon p {
-    font-color: white !important;
+    color: white !important;
 }
 
 .details-example > summary {
@@ -31,5 +31,5 @@
 /* This may be weird very weird*/
 div {
     background: black !important;
-    font-color: white !important;
+    color: white !important;
 }
